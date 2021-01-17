@@ -26,7 +26,8 @@ jobs:
             sudo apt-get install -y python3-dev python3-pip python3-venv python3-wheel
             sudo pip3 install wheel
             sudo -H pip3 install --ignore-installed PyYAML 
-            sudo pip3 install pybadges            
+            sudo pip3 install pybadges
+            mkdir /tmp/works           
     - name: base works
       if: ${{ github.event_name == 'schedule' || contains(github.event.comment.body, 'testWorks') }}
       run: |
