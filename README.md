@@ -184,3 +184,5 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_pvs_test6/google_flatbuffers.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_pvs_test6/ArashPartow_exprtk.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_pvs_test6/firebase_firebase-ios-sdk.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_oint_smalltmp/google_guetzli.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_oint_smalltmp/h2o_h2o.svg)](https://github.com/google/guetzli.git)
