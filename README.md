@@ -6,6 +6,8 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_pvs_test1/libjpeg-turbo_libjpeg-turbo.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_pvs_test1/curl_curl.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_pvs_test1/isc-projects_bind9.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_cc_smalltmp/google_guetzli.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_cc_smalltmp/h2o_h2o.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_cppc_smalltmp/google_guetzli.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_cppc_smalltmp/h2o_h2o.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn_pvs_test3/madler_zlib.svg)](https://github.com/google/guetzli.git)
