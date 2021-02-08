@@ -112,5 +112,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_test5_1_1/aquynh_capstone.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_test5_1_1/jonathanmetzman_cifuzz-example.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_test5_1_1/danmar_cppcheck.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_smalltmp/google_guetzli.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_smalltmp/h2o_h2o.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_smalltmp/google_guetzli.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_smalltmp/h2o_h2o.svg)](https://github.com/google/guetzli.git)
