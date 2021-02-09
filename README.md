@@ -98,6 +98,8 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/oint_test5_1_1/aquynh_capstone.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/oint_test5_1_1/jonathanmetzman_cifuzz-example.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/oint_test5_1_1/danmar_cppcheck.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_smalltmp/google_guetzli.svg)](https://github.com/google/guetzli.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_smalltmp/h2o_h2o.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test5_1_1/commonmark_cmark.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test5_1_1/clibs_clib.svg)](https://github.com/google/guetzli.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test5_1_1/Blosc_c-blosc.svg)](https://github.com/google/guetzli.git)
