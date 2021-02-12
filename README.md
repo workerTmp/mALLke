@@ -142,6 +142,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_test5_1_1/Blosc_c-blosc.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_test5_1_1/jonathanmetzman_cifuzz-example.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_test5_1_1/commonmark_cmark.svg)](https://github.com/OpenSC/OpenSC.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_newtest4/OpenSC_OpenSC.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/oint_smalltmp/google_guetzli.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/oint_smalltmp/h2o_h2o.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4/unicorn-engine_unicorn.svg)](https://github.com/OpenSC/OpenSC.git)
