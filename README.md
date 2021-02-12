@@ -82,6 +82,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/list/facebook_zstd.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/list/zlib-ng_zlib-ng.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/list/openssl_openssl.svg)](https://github.com/OpenSC/OpenSC.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_newtest4/OpenSC_OpenSC.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test5_1_1/aquynh_capstone.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test5_1_1/danmar_cppcheck.svg)](https://github.com/OpenSC/OpenSC.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test5_1_1/Blosc_c-blosc2.svg)](https://github.com/OpenSC/OpenSC.git)
