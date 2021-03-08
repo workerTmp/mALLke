@@ -1,5 +1,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test4_1/SerenityOS_serenity.svg)](https://github.com/SerenityOS/serenity.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test4_1/zeek_zeek.svg)](https://github.com/SerenityOS/serenity.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4_1/SerenityOS_serenity.svg)](https://github.com/SerenityOS/serenity.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4_1/zeek_zeek.svg)](https://github.com/SerenityOS/serenity.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/list/google_sentencepiece.svg)](https://github.com/SerenityOS/serenity.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/list/tytso_e2fsprogs.svg)](https://github.com/SerenityOS/serenity.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/list/leethomason_tinyxml2.svg)](https://github.com/SerenityOS/serenity.git)
