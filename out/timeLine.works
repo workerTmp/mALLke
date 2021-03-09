@@ -1,9 +1,1 @@
-ListWorksALL: 0:02:02.026805
-StAnWorks_install_pvs: 0:00:12.777674
-StAnWorks_install_oint: 0:10:14.965520
-StAnWorks_install_cppc: 0:03:41.596168
-StAnWorks_install_cc: 0:02:32.633123
-StAnWorks_install_cq: 0:00:17.646378
-StAnWorks_works_pvs_on_newtest3: 0:00:00.000011
-StAnWorks_works_oint_on_newtest3: 0:00:00.000019
-StAnWorks_works_cc_on_newtest3: 4:02:12.801293
+ListWorksALL: 0:02:05.860779
