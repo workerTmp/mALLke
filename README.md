@@ -14,6 +14,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/facebook_rocksdb.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/kinetiknz_nestegg.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/gnuaspell_aspell.svg)](https://github.com/llvm/llvm-project.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_150321oft2/llvm_llvm-project.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test4_1/SerenityOS_serenity.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test4_1/zeek_zeek.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test1/curl_curl.svg)](https://github.com/llvm/llvm-project.git)
