@@ -115,6 +115,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_150321oft2/libssh2_libssh2.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_150321oft2/lua_lua.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_150321oft2/lighttpd_lighttpd1.4.svg)](https://github.com/llvm/llvm-project.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_150321oft2/libressl-portable_portable.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_150321oft2/monero-project_monero.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_150321oft2/libvips_libvips.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_150321oft2/libsndfile_libsndfile.svg)](https://github.com/llvm/llvm-project.git)
