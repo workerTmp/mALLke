@@ -104,6 +104,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test4_1/SerenityOS_serenity.svg)](https://github.com/alembic/alembic.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test4_1/zeek_zeek.svg)](https://github.com/alembic/alembic.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_test5/gravitational_teleport.svg)](https://github.com/alembic/alembic.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cc_test5/alembic_alembic.svg)](https://github.com/alembic/alembic.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4/gabime_spdlog.svg)](https://github.com/alembic/alembic.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4/google_sentencepiece.svg)](https://github.com/alembic/alembic.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4/openssl_openssl.svg)](https://github.com/alembic/alembic.git)
