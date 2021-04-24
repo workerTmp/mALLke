@@ -1,4 +1,4 @@
-[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/facebook_rocksdb.svg)](https://github.com/kinetiknz/nestegg.git)
-[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/kinetiknz_nestegg.svg)](https://github.com/kinetiknz/nestegg.git)
-[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/gnuaspell_aspell.svg)](https://github.com/kinetiknz/nestegg.git)
-[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4_1/zeek_zeek.svg)](https://github.com/kinetiknz/nestegg.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/facebook_rocksdb.svg)](https://github.com/gnuaspell/aspell.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/kinetiknz_nestegg.svg)](https://github.com/gnuaspell/aspell.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_280221oft/gnuaspell_aspell.svg)](https://github.com/gnuaspell/aspell.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4_1/zeek_zeek.svg)](https://github.com/gnuaspell/aspell.git)
