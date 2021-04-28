@@ -18,6 +18,7 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/oint_060321oft2/libical_libical.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_100421oft4/uclouvain_openjpeg.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_100421oft4/sudo-project_sudo.svg)](https://github.com/llvm/llvm-project.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_150321oft2/llvm_llvm-project.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4/veracrypt_VeraCrypt.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4/nothings_stb.svg)](https://github.com/llvm/llvm-project.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cppc_test4/sleuthkit_sleuthkit.svg)](https://github.com/llvm/llvm-project.git)
