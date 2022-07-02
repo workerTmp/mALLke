@@ -1,0 +1,8 @@
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/ZhaoBohan_doOS.svg)](https://github.com/abi/2-Fast-2-Furious.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/LeoSdls_zlib-win64.svg)](https://github.com/abi/2-Fast-2-Furious.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/Lk051_mentohust.svg)](https://github.com/abi/2-Fast-2-Furious.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/TrinityT_ledcon.svg)](https://github.com/abi/2-Fast-2-Furious.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/RomanHargrave_web_img_view.svg)](https://github.com/abi/2-Fast-2-Furious.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/MatthieuHeurtin_Simeon-.svg)](https://github.com/abi/2-Fast-2-Furious.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/OpenInkpot-archive_iplinux-fribidi.svg)](https://github.com/abi/2-Fast-2-Furious.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_m010722p16/M-HT_asylum.svg)](https://github.com/abi/2-Fast-2-Furious.git)
