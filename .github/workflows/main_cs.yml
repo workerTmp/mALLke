@@ -1,4 +1,4 @@
-name: start for c
+name: start for cs
 on:
   schedule:
     - cron:  '18 6 * * *'    
