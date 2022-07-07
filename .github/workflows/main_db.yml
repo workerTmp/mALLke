@@ -1,7 +1,7 @@
-name: start for c
+name: start for db
 on:
   schedule:
-    - cron:  '18 18 * * *'    
+    - cron:  '18 12 * * *'    
 env:
   isecFold: 'insec/'
   workFold: '/opt/'
