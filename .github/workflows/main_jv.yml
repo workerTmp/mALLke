@@ -1,7 +1,7 @@
-name: start for c
+name: start for jv
 on:
   schedule:
-    - cron:  '18 12 * * *'    
+    - cron:  '18 18 * * *'    
 env:
   isecFold: 'insec/'
   workFold: '/opt/'
