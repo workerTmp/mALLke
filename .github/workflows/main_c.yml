@@ -1,8 +1,6 @@
 name: start for c
 on:
 #for test
-  issue_comment:
-    types: [created]
   schedule:
     - cron:  '18 0 * * *'    
 env:
