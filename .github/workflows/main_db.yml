@@ -1,5 +1,8 @@
 name: start for db
 on:
+#for test
+  issue_comment:
+    types: [created]
   schedule:
     - cron:  '18 12 * * *'    
 env:
