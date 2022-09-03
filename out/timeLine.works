@@ -12,3 +12,5 @@ StAnWorks_install_cq: 0:00:39.385913
 StAnWorks_works_pvs_on_orpm200822p3: 0:21:52.645903
 StAnWorks_works_cq_on_orpm200822p3: 0:37:58.832237
 StAnWorks_works_pvs_on_m060822p2: 2:30:53.211135
+StAnWorks_install_pvs: 0:00:32.286014
+StAnWorks_install_cq: 0:00:28.883756
