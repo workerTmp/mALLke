@@ -1,16 +1,1 @@
-ListWorksALL: 0:01:19.768818
-StAnWorks_install_pvs: 0:00:08.827835
-StAnWorks_install_oint: 0:13:02.950418
-StAnWorks_install_cppc: 0:04:26.068842
-StAnWorks_install_cc: 0:04:04.418453
-StAnWorks_install_cq: 0:01:07.271737
-StAnWorks_works_pvs_on_m060822p2: 0:00:00.000024
-StAnWorks_works_cq_on_m060822p2: 0:00:00.000019
-StAnWorks_works_oint_on_m060822p2: 1:03:41.374174
-StAnWorks_install_pvs: 0:00:19.269662
-StAnWorks_install_cq: 0:00:31.369907
-StAnWorks_works_pvs_on_m120822p3: 4:01:34.530359
-StAnWorks_install_pvs: 0:00:21.059958
-StAnWorks_install_cq: 0:00:50.097036
-StAnWorks_install_pvs: 0:00:30.604493
-StAnWorks_install_cq: 0:00:29.788454
+ListWorksALL: 0:01:10.535200
