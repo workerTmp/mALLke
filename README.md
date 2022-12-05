@@ -1797,3 +1797,8 @@
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_orpm200822p3/ubuntuDEB_lua5.1.svg)](https://github.com/madler/pigz.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_orpm200822p3/ubuntuDEB_radeontool.svg)](https://github.com/madler/pigz.git)
 [![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/pvs_orpm200822p3/ubuntuDEB_ieee-data.svg)](https://github.com/madler/pigz.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_newDesc230722p1/irssi_irssi.svg)](https://github.com/madler/pigz.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_newDesc230722p1/karelzak_util-linux.svg)](https://github.com/madler/pigz.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_newDesc230722p1/lxc_lxc.svg)](https://github.com/madler/pigz.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_newDesc230722p1/johnkerl_miller.svg)](https://github.com/madler/pigz.git)
+[![Building Status Local in workerTmp_mALLke](https://workerTmp.github.io/mALLke/StAn/cq_newDesc230722p1/git_git.svg)](https://github.com/madler/pigz.git)
